@@ -10,7 +10,7 @@
 
 A "Emil 1'1 Squad Leader@Emil 1'1"		TO "kit_bw_sl" KIT
 , A "RED - FTL"				TO "kit_bw_ftl" KIT
-, A "Automatic Rifleman"			TO "kit_bw_ar" KIT
+, A "Machinegunner"			TO "kit_bw_ar" KIT
 , A "Grenadier"				TO "kit_bw_gr" KIT
 , A "Rifleman"				TO "kit_bw_r" KIT
 , A "BLUE - FTL"				TO "kit_bw_ftl" KIT
