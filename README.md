@@ -8,9 +8,9 @@
 ### Changelog:
 - Created
 
-# NOT APPROVED
+# APPROVED
 | Reviewer | Result |
 | ------------ | ------------- |
 | Comrade | APPROVED |
-|  |  |
+| 10Dozen | APPROVED |
 
