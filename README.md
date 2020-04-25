@@ -11,6 +11,6 @@
 # NOT APPROVED
 | Reviewer | Result |
 | ------------ | ------------- |
-|  |  |
+| Comrade | APPROVED |
 |  |  |
 
